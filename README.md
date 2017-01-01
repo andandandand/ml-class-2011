@@ -1,6 +1,6 @@
 # ml-class-2011
 
-My homework for the original machine learning massive online open course by Andrew Ng, pre-Coursera.
+My homework for the original machine learning massive online open course (ml-class.org) by Andrew Ng, pre-Coursera.
 
 I remember enjoying this course. Professor Ng did a great job preparing its content, I'd like to get him to sign this IRL.
 
