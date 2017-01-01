@@ -1,0 +1,6 @@
+\input texinfo
+
+@deftypefn {Built-in Function} {} fprintf (@var{fid}, @var{template}, @dots{})
+@end deftypefn
+
+@bye
